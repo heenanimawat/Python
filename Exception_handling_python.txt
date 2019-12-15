@@ -1,0 +1,7 @@
+https://realpython.com/python-exceptions/
+
+- create self defined exceptions
+- AssertionError
+- try, except & else
+
+https://www.tutorialspoint.com/python/python_exceptions.htm

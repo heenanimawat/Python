@@ -1,0 +1,16 @@
+important python topics:
+1) list, tuple , dictionary, sets
+2) list comprehension
+3) generators and Iterators
+4) decorators
+5) OOPS python
+6) Lambda
+7) what is __name__=='__main__'
+8) argv and kargv
+9) how to make a variable or method as private in python
+10) enumerate , itertools , iteritems
+12) Multitreading
+13) Zip function
+14) First class and higher order functions
+15) Mutable and immutable data structures
+16) shallow copy and deep copy
